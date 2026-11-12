@@ -1,0 +1,3 @@
+# GitProjects
+
+Git project workspace.
