@@ -5,9 +5,24 @@
 *.pem
 *.key
 
+# Local credential document
+/git/密钥.doc
+
 # Editor and operating system files
 .idea/
 .vscode/
 .DS_Store
 Thumbs.db
 Desktop.ini
+*.swp
+*.swo
+*~
+
+# Office temporary lock files
+~$*
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log
+*.bak
